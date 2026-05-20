@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment
+.env
+
+# Mac
+.DS_Store
+
+# Data
+data/raw/
+data/indexes/
+
+# Logs
+logs/
